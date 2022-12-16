@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # CSS Autocomplete package
 [![OS X Build Status](https://travis-ci.org/atom/autocomplete-css.svg?branch=master)](https://travis-ci.org/atom/autocomplete-css) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/k3e5uvpmpc5bkja9/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/autocomplete-css/branch/master) [![Dependency Status](https://david-dm.org/atom/autocomplete-css.svg)](https://david-dm.org/atom/autocomplete-css)
 
